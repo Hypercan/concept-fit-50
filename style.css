@@ -1,0 +1,83 @@
+body {
+    background-color: #FDFEFE;
+}
+
+nav {
+    background-color: #FDFEFE;
+
+}
+
+#first-background {
+    background-image: url("https://images.unsplash.com/photo-1534258936925-c58bed479fcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80");
+    position: relative;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    padding: 17% 0;
+}
+
+/* Fonts */
+.font-blackops {
+    font-family: 'Black Ops One', cursive;
+}
+
+.font-koulen {
+    font-family: 'Koulen', cursive;
+}
+
+.font-mavenpro {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.font-monoton {
+    font-family: 'Monoton', cursive;
+}
+
+.font-play {
+    font-family: 'Play', sans-serif;
+}
+
+.font-ultra {
+    font-family: 'Ultra', serif;
+}
+
+/* !Fonts ^ */
+
+
+.firstArticle {
+    position: relative;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    padding: 0;
+
+}
+
+.nav-text-color {
+    color: #AB47BC;
+}
+
+#footer-bg-color {
+    background-color: #212121;
+
+}
+
+.fa-container {
+    text-align: center;
+    color: #000;
+}
+
+.btn-outline-danger {
+    width: 6em;
+    height: 3em;
+    background-color: #F8F9F9;
+    border: 3px solid #AB47BC;
+    color: #AB47BC;
+}
+
+.btn-outline-danger:hover {
+    background-color: #AB47BC;
+    border: 3px solid #F8F9F9;
+}
