@@ -17,6 +17,11 @@ nav {
     padding: 17% 0;
 }
 
+.google-map {
+    width: 80%;
+    height: 400px;
+}
+
 /* Fonts */
 .font-blackops {
     font-family: 'Black Ops One', cursive;
